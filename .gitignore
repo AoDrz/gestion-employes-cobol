@@ -1,0 +1,14 @@
+# Fichiers compilés
+PI-1/feature-paie/stories/US-01-lire-employes
+PI-1/feature-paie/stories/US-02-calculer-salaire
+PI-1/feature-paie/stories/US-03-bulletins-paie
+PI-1/feature-rapports/stories/US-04-masse-salariale
+PI-1/feature-rapports/stories/US-05-tranches-salaire
+PI-2/feature-conges/stories/US-06-enregistrer-conges
+PI-2/feature-conges/stories/US-07-conges-restants
+PI-2/feature-conges/stories/US-08-rapport-conges
+PI-2/feature-menu/stories/US-09-menu-principal
+PI-2/feature-historique/stories/US-11-archiver-bulletins
+PI-2/feature-historique/stories/US-12-consulter-historique
+# Fichiers générés
+*.txt~

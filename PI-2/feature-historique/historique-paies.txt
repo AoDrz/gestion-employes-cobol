@@ -1,0 +1,37 @@
+== ARCHIVE DU 2026-03-10 ==
+======================================
+BULLETIN DE PAIE - Dupont               Jean
+Categorie     : CDI
+Salaire Brut  :  2500.00
+Cotisations   :   550.00
+Impot         :   250.00
+Salaire Net   :  1700.00
+======================================
+BULLETIN DE PAIE - Martin               Sophie
+Categorie     : CDD
+Salaire Brut  :  1800.50
+Cotisations   :   396.11
+Impot         :   090.02
+Salaire Net   :  1314.37
+======================================
+BULLETIN DE PAIE - Bernard              Paul
+Categorie     : CDI
+Salaire Brut  :  3200.75
+Cotisations   :   704.16
+Impot         :   320.07
+Salaire Net   :  2176.52
+======================================
+BULLETIN DE PAIE - Durand               Marie
+Categorie     : STAGE
+Salaire Brut  :  1500.00
+Cotisations   :   330.00
+Impot         :   000.00
+Salaire Net   :  1170.00
+======================================
+BULLETIN DE PAIE - Petit                Lucas
+Categorie     : CDI
+Salaire Brut  :  2800.00
+Cotisations   :   616.00
+Impot         :   280.00
+Salaire Net   :  1904.00
+======================================
